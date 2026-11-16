@@ -1,11 +1,4 @@
-# ECE 285 UCSD - Spring'23 - Final Project
-# Low Light Enhancement And Object Detection
-
-A Project By -
-
-1) Sai Kaushik Soma - (PID A59020013)
-2) Venkata Harsha Vardhan Gangala - (PID A59019872)
-<br>
+# LUMINET
 
 # Project Description
 
